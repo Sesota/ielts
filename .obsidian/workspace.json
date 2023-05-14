@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "f8bdbcd591ee7110",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c82cdf61fc81072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa0cb148446c2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speaking tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32b52104513fd652",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d70ff9aaf36f78d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b017b5b8c35df020",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa00516da6c9caa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42890c0cb4738af7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa3e7cd393fc285d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2486afc1797be94a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b07eabc77757819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8df81b03da9566",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Speaking tests.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec96da2c725cc2e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Speaking tests.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cf7583e779d9171",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f44bd954662a6112",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Speaking tests.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "9aa0cb148446c2f1",
+  "lastOpenFiles": [
+    "recordings/Recording 20230514123313.webm",
+    "recordings/Recording 20230514122734.webm",
+    "Speaking tests.md",
+    "recordings/Recording 20230514123924.webm",
+    "Recording 20230514122919.webm",
+    "recordings/Recording 20230509130850.webm",
+    "recordings/Recording 20230509131023.webm",
+    "recordings",
+    "recordings/Recording 20230509130658.webm",
+    "Recording 20230509130513.webm",
+    "Recording 20230509130437.webm"
+  ]
+}
